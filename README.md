@@ -1,3 +1,7 @@
+> 改自 @hscmap/keybind 
+新家了 自定义dombinde 的方法
+
+
 # Keybind
 This module provide a way for listening for key combination events with simple API.
 
